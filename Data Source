@@ -1,0 +1,10 @@
+Data is pretty big.!
+By calling Kaggle's API " kaggle datasets download -d arpitjain007/game-of-deep-learning-ship-datasets "
+Down load following files 
+
+train.zip 
+test_ApKoW4T.csv
+sample_submission_ns2btKE.csv
+
+After uploading files the code will UNZIP them in "Sample_data" folder of colab. Drag and drop them outside of that forlder.
+With that done you are set to go !
